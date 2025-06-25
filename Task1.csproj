@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="BookSlot.aspx" />
+    <Content Include="HtmlPage1.html" />
     <Content Include="JobApplicationForm.aspx" />
     <Content Include="Mamta.aspx" />
     <Content Include="Web.config" />

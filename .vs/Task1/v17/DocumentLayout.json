@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Mamta123\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61D0C15A-4EBD-4309-8C0E-82215F7E82D7}|Task1.csproj|d:\\mamta123\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61D0C15A-4EBD-4309-8C0E-82215F7E82D7}|Task1.csproj|solutionrelative:htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61D0C15A-4EBD-4309-8C0E-82215F7E82D7}|Task1.csproj|d:\\mamta123\\mamta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{61D0C15A-4EBD-4309-8C0E-82215F7E82D7}|Task1.csproj|solutionrelative:mamta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HtmlPage1.html",
+              "DocumentMoniker": "D:\\Mamta123\\HtmlPage1.html",
+              "RelativeDocumentMoniker": "HtmlPage1.html",
+              "ToolTip": "D:\\Mamta123\\HtmlPage1.html",
+              "RelativeToolTip": "HtmlPage1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T06:57:37.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Mamta.aspx",
               "DocumentMoniker": "D:\\Mamta123\\Mamta.aspx",
               "RelativeDocumentMoniker": "Mamta.aspx",
